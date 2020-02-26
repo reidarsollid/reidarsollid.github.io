@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 let str = "Hello";
 
 fn some_func() {}
+```
 
 ```markdown
 Syntax highlighted code block
